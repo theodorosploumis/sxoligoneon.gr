@@ -1,0 +1,46 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/website/about/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/blog/archive-2019-02-11/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/links/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/media/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/notes/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/tags/2018-2019/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/tags/συναντήσεις/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/404/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/contact/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/tags/
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/404.html
+  Link: </website/webpack-runtime-d9d6512e4cda12cde2a8.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
